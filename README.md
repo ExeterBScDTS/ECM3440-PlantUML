@@ -1,7 +1,5 @@
 # ECM3440-PlantUML
 
-PlantUML examples
-
 ## PlantUML
 
 <https://plantuml.com/>
